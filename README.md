@@ -86,7 +86,7 @@ Boring scales in time.
 ## Author
 
 **Youssef El Abbassi**
-Software engineer interested in tools, systems, and thinking in public.
+Software engineer interested in BCI.
 
 ---
 
@@ -143,7 +143,7 @@ Every post is a standalone HTML document:
     <meta name="description" content="Brief description for SEO (150-160 chars)">
     <title>Post Title — Blog</title>
     <link rel="stylesheet" href="../style.css">
-    <link rel="canonical" href="https://yourdomain.com/posts/YYYY-MM-DD-slug.html">
+    <link rel="canonical" href="https://elabbassi.com/posts/YYYY-MM-DD-slug.html">
 </head>
 <body>
     <header>
@@ -159,7 +159,7 @@ Every post is a standalone HTML document:
         </article>
     </main>
     <footer>
-        <p>Youssef El Abbassi</p>
+        <p><a href="mailto:youssef@elabbassi.com">youssef@elabbassi.com</a></p>
     </footer>
 </body>
 </html>
