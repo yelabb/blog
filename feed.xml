@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Youssef El Abbassi</title>
+        <link>https://elabbassi.com</link>
+        <description>youssef el abbassi's blog.</description>
+        <language>en</language>
+        <lastBuildDate>Wed, 29 Jan 2026 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://elabbassi.com/feed.xml" rel="self" type="application/rss+xml"/>
+
+        <item>
+            <title>Lorem Ipsum</title>
+            <link>https://elabbassi.com/posts/2026-01-28-lorem-ipsum.html</link>
+            <guid>https://elabbassi.com/posts/2026-01-28-lorem-ipsum.html</guid>
+            <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
+            <description>A short story about public AI shaping perception in real time, tailoring reality per person, and why putting it under a CEO collapses.</description>
+        </item>
+
+        <item>
+            <title>The Cost of Speed</title>
+            <link>https://elabbassi.com/posts/2026-01-26-the-cost-of-speed.html</link>
+            <guid>https://elabbassi.com/posts/2026-01-26-the-cost-of-speed.html</guid>
+            <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+            <description>AI made me faster, but speed has a cost: attention, learning, and taste. Here are the rules I use to keep the craft.</description>
+        </item>
+
+        <item>
+            <title>Hello World</title>
+            <link>https://elabbassi.com/posts/2026-01-26-hello-world.html</link>
+            <guid>https://elabbassi.com/posts/2026-01-26-hello-world.html</guid>
+            <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+            <description>First post. Why a dead simple HTML blog in 2026? Because simplicity wins.</description>
+        </item>
+
+    </channel>
+</rss>
